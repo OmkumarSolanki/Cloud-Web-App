@@ -1,0 +1,12 @@
+[submodule "tf-gcp-infra"]
+	path = tf-gcp-infra
+	url = git@github.com:CSYE6225-Network-Struct-Cloud-Computing/tf-gcp-infra.git
+	branch = main
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:CSYE6225-Network-Struct-Cloud-Computing/webapp.git
+	branch = main
+[submodule "serverless"]
+	path = serverless
+	url = git@github.com:CSYE6225-Network-Struct-Cloud-Computing/serverless.git
+	branch = main
